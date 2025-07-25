@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'SiphonSettings' in project 'SiphonSettings' (no dependencies)
