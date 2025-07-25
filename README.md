@@ -6,8 +6,8 @@
 * Support OpneH264.
 * Support Opus
 * Support G.729
-* Support H.263
-* For vidoe support in app - Comtact at Below Mail ID.
+* Support H.263, H.264 ,VP8 , VP9 for Video call. 
+* For vidoe support in app - Comtact at below Mail ID.
 * Support OpenSSL 3.X
 
   Contact MailID : info@neithsystems.com
