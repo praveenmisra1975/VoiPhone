@@ -78,6 +78,7 @@
 				<string>Automatic</string>
 				<string>UDP</string>
 				<string>TCP</string>
+				<string>TLS</string>
 			</array>
 			<key>Type</key>
 			<string>PSMultiValueSpecifier</string>
@@ -86,6 +87,7 @@
 				<integer>0</integer>
 				<integer>1</integer>
 				<string>2</string>
+				<string>3</string>
 			</array>
 		</dict>
 		<dict>
@@ -170,16 +172,7 @@
 			<key>InAppPlaceholder</key>
 			<string>wildcard character (&apos;*&apos;)</string>
 		</dict>
-		<dict>
-			<key>Type</key>
-			<string>PSToggleSwitchSpecifier</string>
-			<key>Title</key>
-			<string>Magic Jack</string>
-			<key>Key</key>
-			<string>UseMJAuth</string>
-			<key>DefaultValue</key>
-			<false/>
-		</dict>
+		
 	</array>
 </dict>
 </plist>
